@@ -1,3 +1,3 @@
-# Portfolio website
+# Portfolio Website
 
-access my portfolio [here](https://veronicacapco.github.io/)
+[click here to view my portfolio](https://veronicacapco.github.io/)
